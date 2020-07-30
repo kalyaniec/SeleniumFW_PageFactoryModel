@@ -5,9 +5,9 @@ import java.lang.reflect.Method;
 
 import org.testng.annotations.Test;
 
+import com.initBankingListeners.TestListener;
 import com.initBankingPageObjects.LoginPage;
 import com.initBankingPageResources.BaseClass;
-import com.initBankingUtilities.TestListener;
 
 import junit.framework.Assert;
 
